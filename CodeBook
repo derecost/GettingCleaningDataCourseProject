@@ -9,7 +9,8 @@ been randomly partitioned into two sets, where 70% of the volunteers was selecte
 30% the test data. 
 
 
-For this project, an independent tidy data set with the average of each variable for each activity and each subject was created. The name of the file is "tiny.data.txt" and for each record it is provided:
+For this project, an independent tidy data set with the average of each variable for each activity and each subject 
+was created. The name of the file is "tiny.data.txt" and for each record it is provided:
 
 Subject : Subject Id
 Activity : Name of the activities
