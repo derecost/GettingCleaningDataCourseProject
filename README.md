@@ -15,3 +15,4 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 4.  Appropriately labels the data set with descriptive variable names. 
 5.  Creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
 
+  A code book that describes the variables, the data, and any transformations or work that I performed to clean up the data is created and it is called CodeBook.md. Also, the output data ("tiny.data.txt") is provided.
