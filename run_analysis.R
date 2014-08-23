@@ -2,6 +2,9 @@
 #######################Course Project############################
 #################################################################
 
+#The purpose of this project is to collect, work with, and clean the data set of 
+#the data collected from the accelerometers from the Samsung Galaxy S smartphone. 
+
 #################################################################
 ####################Task 1#######################################
 #################################################################
