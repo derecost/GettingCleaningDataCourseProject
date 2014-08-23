@@ -1,9 +1,9 @@
-###Code Book - Course Project
+#Code Book - Course Project
 
 The purpose of this project is to collect, work with, and clean the data set of the data collected from the
 accelerometers from the Samsung Galaxy S smartphone. 
 
-#Study design
+##Study design
 This data is associated with the experiments of a group of 30 volunteers within an age bracket of 19-48 years. 
 Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
 wearing a smartphone (Samsung Galaxy S II) on the waist. Using its embedded accelerometer and gyroscope, the 
@@ -12,7 +12,7 @@ The experiments have been video-recorded to label the data manually. The obtaine
 partitioned into two sets, where 70% of the volunteers was selected for generating the training data and 
 30% the test data. 
 
-#Code Book
+##Code Book
 For this project, an independent tidy data set with the average of each variable for each activity and each subject 
 was created. The name of the file is "tiny.data.txt" and for each record it is provided:
 
