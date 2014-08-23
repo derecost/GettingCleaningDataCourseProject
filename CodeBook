@@ -4,9 +4,10 @@ The purpose of this project is to collect, work with, and clean the data set of 
 accelerometers from the Samsung Galaxy S smartphone. This data is associated with the experiments of a group of 30
 volunteers within an age bracket of 19-48 years. Each person performed six activities (WALKING, WALKING_UPSTAIRS,
 WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. Using its
-embedded accelerometer and gyroscope, the research captured 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz. The experiments have been video-recorded to label the data manually. The obtained dataset has
-been randomly partitioned into two sets, where 70% of the volunteers was selected for generating the training data and
-30% the test data. 
+embedded accelerometer and gyroscope, the research captured 3-axial linear acceleration and 3-axial angular velocity
+at a constant rate of 50Hz. The experiments have been video-recorded to label the data manually. The obtained dataset
+has been randomly partitioned into two sets, where 70% of the volunteers was selected for generating the training 
+data and 30% the test data. 
 
 
 For this project, an independent tidy data set with the average of each variable for each activity and each subject 
